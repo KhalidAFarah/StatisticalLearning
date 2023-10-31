@@ -9,7 +9,17 @@
 * If two variables are highly correlated one can be removed.
 * Confusion matrix for determining thee best classification model (regression)
 * PCA (method to elegantly reduce number of variables)
-* test forwarding 
+
+# Questions
+* forward selection 
+* where would i note in the report all of the features of the dataset? in the methods chapters? (no results)
+
+* eploratory data analysis, (build hypothesis and write explanations based on graphs and plots) (think about what you want to say and use what is needed to say it.)
+* Write about preprocessing
+* Write your entire (or as much of your) process leading to the result gotten
+* Later answer the hypothesis based on the graphs (e.g. wrong_fragment is a highly determinative feature)
+
+* Have code present in the report?
 
 # Sources and links:
 
@@ -55,7 +65,7 @@
 - Summary of chapter
 
 * Results
-
+- feature selection and elimination
 - accuracy
 - interperability
 - Summary of chapter
@@ -66,7 +76,10 @@
 - Discuss result
 - Good feature?
 - Good model?
+- Overfitting?
 - Relevant dataset?
 - Summary of chapter
 
 * Conclusion
+
+
