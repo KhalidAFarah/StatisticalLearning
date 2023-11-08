@@ -1,3 +1,7 @@
+# To-Do:
+
+* Get R**2 for logistical regresion model
+
 # Notes:
 
 * Predicting network attacks
@@ -11,14 +15,13 @@
 * PCA (method to elegantly reduce number of variables)
 
 # Questions
-* forward selection 
-* where would i note in the report all of the features of the dataset? in the methods chapters? (no results)
 
+* forward selection
+* where would i note in the report all of the features of the dataset? in the methods chapters? (no results)
 * eploratory data analysis, (build hypothesis and write explanations based on graphs and plots) (think about what you want to say and use what is needed to say it.)
 * Write about preprocessing
 * Write your entire (or as much of your) process leading to the result gotten
 * Later answer the hypothesis based on the graphs (e.g. wrong_fragment is a highly determinative feature)
-
 * Have code present in the report?
 
 # Sources and links:
@@ -33,14 +36,15 @@
 * https://www.kaggle.com/datasets/hawkcurry/2019-trendmicro-ctf-wildcard-400 (regarding general network security)
 
 # Important features
+
 * wrong_fragments
 * service
 * last_flag
 * flag
 * protocol_type
 
-
 # Unimportant features
+
 * land
 
 # Report structure
@@ -65,6 +69,7 @@
 - Summary of chapter
 
 * Results
+
 - feature selection and elimination
 - accuracy
 - interperability
@@ -81,5 +86,3 @@
 - Summary of chapter
 
 * Conclusion
-
-
