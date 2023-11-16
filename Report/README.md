@@ -38,10 +38,12 @@
 # Important features
 
 * wrong_fragments
+* src_bytes
 * service
 * last_flag
 * flag
 * protocol_type
+* serror_rate
 
 # Unimportant features
 
